@@ -1,0 +1,9 @@
+HTTP
+request, response : header + body
+
+GET / POST
+GET  : 파라미터가 URL뒤에 .jsp?param1=value1&param2=value2
+POST : 파라미터가 request 바디안에...
+
+GET  : form태그에서 method가 get인 것, a태그, 브라우저에 직접 URL 작성
+POST : form태그에서 method가 POST인 것 
